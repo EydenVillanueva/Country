@@ -1,2 +1,3 @@
-# Country
-API REST Exercise with python 3
+# Python Academy
+
+A repo made for my python academy lessons
