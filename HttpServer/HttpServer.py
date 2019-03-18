@@ -19,11 +19,10 @@ class Handler(BaseHTTPRequestHandler):
     def do_POST(self):
         return
     def do_GET(self):
-        
-        code = parse_qs(urlparse(self.path).query).get('country',None)[0]
-        print(code)
+                
+        code = parse_qs(urlparse(self.path).query).get('country',None)        
         if code:
-            country = CountryApi(code)
+            country = CountryApi(code[0])
             result = json.dumps(country.get_dict())
         else:
             result = '{}'
