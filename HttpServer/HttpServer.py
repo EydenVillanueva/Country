@@ -18,8 +18,7 @@ class Handler(BaseHTTPRequestHandler):
         return
     def do_POST(self):
         return
-    def do_GET(self):
-                
+    def do_GET(self):                
         code = parse_qs(urlparse(self.path).query).get('country',None)        
         if code:
             country = CountryApi(code[0])
