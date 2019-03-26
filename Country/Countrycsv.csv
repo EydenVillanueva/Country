@@ -1,6 +1,0 @@
-name,topLevelDomain,alpha2Code,alpha3Code,callingCodes,capital,altSpellings,region,subregion,population,latlng,demonym,area,gini,timezones,borders,nativeName,numericCode,currencies,languages,translations,flag,regionalBlocs,cioc
-Colombia,dict,CO,COL,dict,Bogotá,dict,Americas,South America,48759958,dict,Colombian,1141748.0,55.9,dict,dict,Colombia,170,dict,dict,dict,https://restcountries.eu/data/col.svg,dict,COL
-Brazil,dict,BR,BRA,dict,Brasília,dict,Americas,South America,206135893,dict,Brazilian,8515767.0,54.7,dict,dict,Brasil,076,dict,dict,dict,https://restcountries.eu/data/bra.svg,dict,BRA
-Mexico,dict,MX,MEX,dict,Mexico City,dict,Americas,Central America,122273473,dict,Mexican,1964375.0,47.0,dict,dict,México,484,dict,dict,dict,https://restcountries.eu/data/mex.svg,dict,MEX
-Argentina,dict,AR,ARG,dict,Buenos Aires,dict,Americas,South America,43590400,dict,Argentinean,2780400.0,44.5,dict,dict,Argentina,032,dict,dict,dict,https://restcountries.eu/data/arg.svg,dict,ARG
-Canada,dict,CA,CAN,dict,Ottawa,dict,Americas,Northern America,36155487,dict,Canadian,9984670.0,32.6,dict,dict,Canada,124,dict,dict,dict,https://restcountries.eu/data/can.svg,dict,CAN
